@@ -1,17 +1,13 @@
 ## Welcome to my profile! 
 
-Hello, I'm Nathalia. 🙋
-I'm a systems analysis and development student, a technology enthusiat, and a lifelong learner.
+Hello, I'm Nathalia.
 
-## My hobbies
+I'm a systems analysis and development student, a technology enthusiast, and a lifelong learner.
 
-- Watch movies and TV series 📺
-- Working out 🏋️‍♀️
-- Read Books 📖
+##  I have been doing 👩‍💻
+ - Santander Bootcamp Fullstack Developer 
+ - Studying a technology roadmap at Staart's Platform 
 
- ##  Studying
- - Analysis Systems Development 👩‍💻
- 
  ## Contact me
  
  <a href="https://www.linkedin.com/in/nathalia-camargo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
