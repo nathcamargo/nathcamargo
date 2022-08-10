@@ -5,7 +5,6 @@ Hello, I'm Nathalia.
 I'm a systems analysis and development student, a technology enthusiast, and a lifelong learner.
 
 ##  I have been doing 👩‍💻
- - Santander Bootcamp Fullstack Developer 
  - Studying a technology roadmap at Staart's Platform 
 
  ## Contact me
