@@ -5,7 +5,7 @@ Hello, I'm Nathalia.
 I'm a systems analysis and development student, a technology enthusiast, and a lifelong learner.
 
 ##  I have been doing 👩‍💻
- - Studying a technology roadmap at Staart's Platform 
+ - Bootcamps
 
  ## Contact me
  
