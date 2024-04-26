@@ -6,6 +6,7 @@ I'm a systems analysis and development student, a technology enthusiast, and a l
 
 ##  I have been doing 👩‍💻
  - Bootcamps
+ - Studying Python
 
  ## Contact me
  
