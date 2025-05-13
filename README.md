@@ -5,7 +5,7 @@ Hello, I'm Nathalia.
 I hold degrees in **Business Administration** and **Systems Analysis and Development**, with a solid professional background in **Payroll and HR operations**. I also have experience in **administrative activities**, **commercial support**, and **customer experience**. Additionally, I have **international experience** through a one-and-a-half-year exchange program in the United States.
 Currently, I am developing skills in **Data Analysis** and **People Analytics**, aiming to transform data into **strategic insights for people management**.
 
-# 👋 Bem-vindo(a) ao meu perfil!
+## 👋 Bem-vindo(a) ao meu perfil!
 
 Olá! Sou a Nathalia.
 
